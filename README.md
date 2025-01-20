@@ -18,7 +18,7 @@ Using pip (or) pip3
 Install the required dependencies:
 
 ```bash
-pip install scikit-learn pandas numpy matplotlib
+pip install scikit-learn pandas numpy matplotlib seaborn
 ```
 
 ## 4. Run the Application
@@ -29,3 +29,4 @@ To run the application, use the following command:
 python3 predict.py
 ```
 
+<img width="1132" alt="image" src="https://github.com/user-attachments/assets/7b0ac51d-0490-4997-a79f-d47c84faff35" />
