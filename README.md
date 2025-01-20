@@ -2,8 +2,8 @@
 
 ## 1. Clone the repo
 ```
-git clone https://github.com/ngdeveloper-projects/car-sales-forecasts.git```
-
+git clone https://github.com/ngdeveloper-projects/car-sales-forecasts.git
+```
 
 ## 2. Environment Setup
 Create and activate a Python virtual environment:
