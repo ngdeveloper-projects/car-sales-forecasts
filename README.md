@@ -3,6 +3,7 @@
 ## 1. Clone the repo
 ```
 git clone https://github.com/ngdeveloper-projects/car-sales-forecasts.git```
+```
 
 ## 2. Environment Setup
 Create and activate a Python virtual environment:
@@ -13,7 +14,7 @@ source car_sales_env/bin/activate
 ```
 
 ## 3. Installing Dependencies
-Using pip
+Using pip (or) pip3
 Install the required dependencies:
 
 ```bash
