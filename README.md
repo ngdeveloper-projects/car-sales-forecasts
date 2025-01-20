@@ -18,7 +18,7 @@ Using pip (or) pip3
 Install the required dependencies:
 
 ```bash
-pip install scikit-learn pandas numpy
+pip install scikit-learn pandas numpy matplotlib
 ```
 
 ## 4. Run the Application
